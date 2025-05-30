@@ -1,0 +1,25 @@
+https://masterton.com.au/home-design/brighton-twin/
+
+https://www.skbuildingdesign.com.au/projects/
+
+
+domain: enquiry@terrafirmahomes.com.au
+https://terrafirmahomes.com.au
+www.terrafirmahomes.info
+
+1-  email system: user to send question
+		  verifying accounts
+		  automated responses 
+		  
+2- booking system: user to book consultations
+                   
+
+
+4- admin to be able to upload/remove property (photos, planes etc)
+
+
+5- 
+
+
+		    
+C:\Users\ahmed\AppData\Roaming\npm
